@@ -5,7 +5,7 @@
   
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fox333-lab" alt="fox333-lab" /></a> </p>-->  
   
-- 🌱 I’m currently learning **Azure**  
+- 🌱 I’m currently learning **MedusaJS**  
   
 - 👯 I’m looking to collaborate on **Open Source**  
   
